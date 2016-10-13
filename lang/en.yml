@@ -1,0 +1,34 @@
+en:
+  CustomizableImageContentElement:
+    SINGULARNAME: Image
+    PLURALNAME: Images
+  TocContentElement:
+    SINGULARNAME: Table of Content
+    PLURALNAME: Table of Content
+  TableContentElement:
+    SINGULARNAME: Table
+    PLURALNAME: Tables
+    FirstRowIsHead: Use first row as header
+  FCE:
+    image:
+      orientation:
+        title: Orientation
+        original: Originial (keep ratio)
+        landscape: Landscape (Set width)
+        portrait: Portrait (Set height)
+        cropped: Cropped (individual)
+      size:
+        title: Size
+        width: Width (in px)
+        height: Height (in px)
+      click:
+        title: Click action
+        nothing: Do Nothing
+        modal: Open fullscreen
+        link: Open Link Target
+      link:
+        title: Link
+        target: Target Url
+
+
+

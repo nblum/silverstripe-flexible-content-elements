@@ -1,0 +1,34 @@
+de:
+  CustomizableImageContentElement:
+    SINGULARNAME: Bild
+    PLURALNAME: Bilder
+  TocContentElement:
+    SINGULARNAME: Inhaltsverzeichnis
+    PLURALNAME: Inhaltsverzeichnisse
+  TableContentElement:
+    SINGULARNAME: Tabelle
+    PLURALNAME: Tabellen
+    FirstRowIsHead: Erste Zeile als Überschrift verwenden
+  FCE:
+    image:
+      orientation:
+        title: Orientation
+        original: Originial (Verhältnis beibehalten)
+        landscape: Querformat (Breite ändern)
+        portrait: Hochformat (Höhe ändern)
+        cropped: Beschnitten (Individuelle Maße)
+      size:
+        title: Größe
+        width: Breite (in px)
+        height: Höhe (in px)
+      click:
+        title: Verhalten bei Klick
+        nothing: Do Nothing
+        modal: Open original image fullscreen on click
+        link: Open Link Target
+      link:
+        title: Link
+        target: Target Url
+
+
+
