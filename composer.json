@@ -1,6 +1,6 @@
 {
   "name": "nblum/silverstripe-flexible-content-elements",
-  "description": "",
+  "description": "Provides a basic set of content elements for the silverstripe-flexible-content package",
   "type": "silverstripe-module",
   "homepage": "",
   "keywords": [
@@ -17,6 +17,7 @@
   "require": {
     "silverstripe/framework": "^3.0",
     "nblum/silverstripe-flexible-content": "*",
+    "nblum/silverstripe-table-field": "*",
     "nathancox/codeeditorfield": "^1.1"
   }
 }
