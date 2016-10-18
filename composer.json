@@ -1,8 +1,8 @@
 {
   "name": "nblum/silverstripe-flexible-content-elements",
-  "description": "",
+  "description": "Provides a basic set of content elements for the silverstripe-flexible-content package",
   "type": "silverstripe-module",
-  "homepage": "",
+  "homepage": "http://www.blum-nico.de",
   "keywords": [
     "silverstripe",
     "content"
@@ -16,8 +16,9 @@
   ],
   "require": {
     "silverstripe/framework": "^3.0",
-    "nblum/silverstripe-flexible-content": "*",
+    "nblum/silverstripe-flexible-content": "dev-master",
     "nathancox/codeeditorfield": "^1.1",
-    "lrc/silverstripe-link-field": "^0.1.0"
+    "lrc/silverstripe-link-field": "^0.1.0",
+    "nblum/silverstripe-table-field": "dev-master"
   }
 }
