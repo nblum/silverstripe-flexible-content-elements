@@ -17,6 +17,7 @@
   "require": {
     "silverstripe/framework": "^3.0",
     "nblum/silverstripe-flexible-content": "*",
-    "nathancox/codeeditorfield": "^1.1"
+    "nathancox/codeeditorfield": "^1.1",
+    "lrc/silverstripe-link-field": "^0.1.0"
   }
 }
