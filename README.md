@@ -13,9 +13,13 @@ This package requires the [silverstripe-flexible-content](https://github.com/nbl
 
 ## Elements
  - Image - Add images with as basic set of config options
+ - Image gallery - A simple image gallery
  - Html - just hack plain html
  - Table - wysiwyg for tables
  - Toc - a basic table of contents for the current page
+
+All elements are very basic and simple. You may override the templates in your theme and extend the element classes to 
+customize the elements for your needs.
 
 
 

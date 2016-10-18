@@ -9,6 +9,9 @@ en:
     SINGULARNAME: Table
     PLURALNAME: Tables
     FirstRowIsHead: Use first row as header
+  ImageGalleryContentElement:
+    SINGULARNAME: Image gallery
+    PLURALNAME: Image galleries
   FCE:
     image:
       orientation:

@@ -9,6 +9,9 @@ de:
     SINGULARNAME: Tabelle
     PLURALNAME: Tabellen
     FirstRowIsHead: Erste Zeile als Überschrift verwenden
+  ImageGalleryContentElement:
+    SINGULARNAME: Bildergallerie
+    PLURALNAME: Bildergallerien
   FCE:
     image:
       orientation:
