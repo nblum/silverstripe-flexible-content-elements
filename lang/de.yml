@@ -1,7 +1,7 @@
 de:
-  CustomizableImageContentElement:
-    SINGULARNAME: Bild
-    PLURALNAME: Bilder
+  TextMediaContentElement:
+    SINGULARNAME: Text & Bild
+    PLURALNAME: Texte & Bilder
   TocContentElement:
     SINGULARNAME: Inhaltsverzeichnis
     PLURALNAME: Inhaltsverzeichnisse
@@ -20,6 +20,11 @@ de:
         landscape: Querformat (Breite ändern)
         portrait: Hochformat (Höhe ändern)
         cropped: Beschnitten (Individuelle Maße)
+      position:
+        title: Ausrichtung
+        left: linksbündig
+        center: zentriert
+        right: rechtsbündig
       size:
         title: Größe
         width: Breite (in px)

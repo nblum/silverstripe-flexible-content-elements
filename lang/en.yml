@@ -1,7 +1,7 @@
 en:
-  CustomizableImageContentElement:
-    SINGULARNAME: Image
-    PLURALNAME: Images
+  TextMediaContentElement:
+    SINGULARNAME: Copy & Image
+    PLURALNAME: Copy & Images
   TocContentElement:
     SINGULARNAME: Table of Content
     PLURALNAME: Table of Content
@@ -20,6 +20,11 @@ en:
         landscape: Landscape (Set width)
         portrait: Portrait (Set height)
         cropped: Cropped (individual)
+      position:
+        title: Justification
+        left: left-aligned
+        center: centered
+        right: right-aligned
       size:
         title: Size
         width: Width (in px)

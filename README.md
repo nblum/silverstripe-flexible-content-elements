@@ -12,7 +12,7 @@ composer require nblum/silverstripe-flexible-content-elements
 This package requires the [silverstripe-flexible-content](https://github.com/nblum/silverstripe-flexible-content) package.
 
 ## Elements
- - Image - Add images with as basic set of config options
+ - TextMedia - Add copy text and images with as basic set of config options
  - Image gallery - A simple image gallery
  - Html - just hack plain html
  - Table - wysiwyg for tables

@@ -1,5 +1,6 @@
+$Content
 <% if $Image %>
-    <figure>
+    <figure class="$Position">
         <% if $Click == "link" %>
         <a href="$Link">
         <% else_if $Click == "modal" %>
